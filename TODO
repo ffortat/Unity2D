@@ -1,0 +1,22 @@
+- Gestion d'éléments
+	- Joueur
+	- Objets / Environnement
+	- NPCs
+- Boucle de gameplay
+	- Contrôles
+	- Physique
+	- Collisions
+- Lecture de données
+	- JSON
+	- XML
+- Enregistremment de données
+	- Sauvegarde jeu
+	- Préférences / Settings
+- Génération procédurale
+- Environnement 2D
+	- Sprites
+	- Gridbased (tilemap ?)
+- Environnement 3D
+	- Gestion caméra
+	- Rendu 3D pour vue 2D
+- Réseau
